@@ -11,7 +11,7 @@ h1{
     font-weight: bold;
 }
 .Interests {
-   text-align: center;
+    text-align: center;
 }
 
 /* MYNAV */
@@ -236,7 +236,7 @@ span{
 .Education .box{
 	display: flex;
 	flex-direction: column;
-	width: 300px;
+	width: 370px;
 	height: 300px;
 	border: 1px solid rgb(0, 0, 0);
 	margin: 10px;
